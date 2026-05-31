@@ -1,0 +1,8 @@
+[project]
+name = "legal-similarity-system"
+version = "1.1.0"
+description = "Educational staged Pakistan legal document similarity system using MinHash and LSH"
+requires-python = ">=3.10"
+dependencies = [
+  "python-docx>=1.1",
+]
